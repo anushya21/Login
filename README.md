@@ -3,4 +3,6 @@ enter the following commands to run the code:
 
 2.npx create-react-app my-react-app
 
-3.npm start
+3.copy the file login.jsx and login.css and paste it in src folder
+ie.src->login.jsx , login.css
+4.npm start
